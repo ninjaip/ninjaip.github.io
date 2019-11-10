@@ -1,4 +1,3 @@
-IP : 1.1.2.6
 # OnLiNe Ninja Bot
 
-/ Powerd By : Hamoud Host
+/ IP : 1.1.2.6 / Powerd By : Hamoud Host
